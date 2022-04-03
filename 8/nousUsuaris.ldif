@@ -1,0 +1,28 @@
+dn: uid=usr2000,cn=UsuarisDomini,ou=UsuarisGrups,dc=fjeclot,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn:  usr2000
+sn:  usr2000
+uidNumber:  2000
+gidNumber: 101
+homeDirectory: /home/usr2000
+loginShell: /bin/bash
+
+dn: uid=usr2001,cn=UsuarisDomini,ou=UsuarisGrups,dc=fjeclot,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn:  usr2001
+sn:  usr2001
+uidNumber:  2001
+gidNumber: 101
+homeDirectory: /home/usr2001
+loginShell: /bin/bash
+

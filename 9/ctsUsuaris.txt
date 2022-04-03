@@ -1,0 +1,8 @@
+usr2000 ------ eiY3oghee7
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: userPassword
